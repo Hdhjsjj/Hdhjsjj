@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hdhjsjj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ABO HARB
+- 👀 I’m interested in the hakcer
+- 🌱 I’m currently learning the meed prnamg
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me the. My emal
 
 <!---
 Hdhjsjj/Hdhjsjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
